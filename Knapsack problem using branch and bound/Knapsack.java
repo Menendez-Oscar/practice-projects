@@ -10,7 +10,7 @@ import java.util.Scanner;
  * @author Oscar Menendez
  *         November 15 2014
  */
-public class Ex16 {
+public class Knapsack {
 
     static int maxWeight;
     static int n;
